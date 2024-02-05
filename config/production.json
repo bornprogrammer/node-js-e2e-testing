@@ -1,0 +1,5 @@
+{
+  "s3_bucket_name": "incruiter-media",
+  "s3_region": "ap-south-1",
+  "env_name": "production"
+}
